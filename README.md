@@ -6,10 +6,13 @@ You can use pre-build package : https://github.com/venomx96/smart-card-reader-li
 
 
 Depencies :
+
 pip install pyscard
+
 pip install py2exe
 
 Build : 
+
 setup.py py2exe
 
 
