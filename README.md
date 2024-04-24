@@ -1,6 +1,6 @@
-Read name and serial numbers from smartcard devices, add a lines in list.txt
+### Read name and serial numbers from smartcard devices, add a lines in list.txt
 
-Exemple : 
+Exemple :
 ```
 Ingenico 01730418 TL XIRING 1 0
 Ingenico 01730418 TL XIRING 2 0
@@ -13,7 +13,7 @@ KAPELSE 00722157 KAP-LINK2 2 0
 
 ----------------------------------------------------------------------------------------------------------------------
 
-To build, you need Python 3.10
+### To build, you need Python 3.10
 
 
 You can use pre-build package :
