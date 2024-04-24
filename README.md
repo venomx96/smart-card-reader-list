@@ -16,5 +16,3 @@ pip install py2exe
 Build : 
 
 setup.py py2exe
-
-
