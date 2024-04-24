@@ -1,11 +1,11 @@
 Read name and serial numbers from smartcard devices, add a lines in list.txt
 
-
+Exemple : 
+```
 KAPELSE 00722157 KAP-LINK2 0 0
-
 KAPELSE 00722157 KAP-LINK2 1 0
-
 KAPELSE 00722157 KAP-LINK2 2 0
+```
 
 ----------------------------------------------------------------------------------------------------------------------
 
