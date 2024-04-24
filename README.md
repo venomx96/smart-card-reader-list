@@ -20,10 +20,10 @@ https://github.com/venomx96/smart-card-reader-list/releases/download/Release/sma
 
 Depencies :
 
-pip install pyscard
+```pip install pyscard```
 
-pip install py2exe
+```pip install py2exe```
 
 Build : 
 
-setup.py py2exe
+```setup.py py2exe```
